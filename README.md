@@ -1,4 +1,4 @@
-# CFData
+# CF_Visualizer
 
 A new Flutter application.
 
